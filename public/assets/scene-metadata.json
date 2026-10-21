@@ -1,0 +1,135 @@
+{
+  "title": "BATYR QUEST · PUNCH camera planner",
+  "units": "metres",
+  "axisMapping": {
+    "x": "UE X / 100",
+    "y": "UE Z / 100",
+    "z": "UE Y / 100"
+  },
+  "bounds": {
+    "min": [
+      -4.796000078,
+      -0.17999999225139618,
+      -2.2849998984999997
+    ],
+    "max": [
+      2.5840001106262207,
+      4.690000057220459,
+      12.000000020000002
+    ]
+  },
+  "presets": [
+    {
+      "id": "stage",
+      "label": "Сцена",
+      "position": [
+        -0.8,
+        1.8,
+        5.8
+      ],
+      "target": [
+        -0.234,
+        1.3,
+        -0.4
+      ],
+      "focal": 24,
+      "floor": "ground"
+    },
+    {
+      "id": "upper",
+      "label": "Верхняя комната",
+      "position": [
+        -0.65,
+        4.05,
+        9.35
+      ],
+      "target": [
+        1.2,
+        3.65,
+        10.7
+      ],
+      "focal": 22,
+      "floor": "upper"
+    },
+    {
+      "id": "bar",
+      "label": "Бар",
+      "position": [
+        1.55,
+        1.64,
+        8.1
+      ],
+      "target": [
+        1.2,
+        1.4,
+        10.5
+      ],
+      "focal": 24,
+      "floor": "ground"
+    },
+    {
+      "id": "overview",
+      "label": "Весь зал",
+      "position": [
+        -1.2,
+        2.15,
+        8.0
+      ],
+      "target": [
+        -0.5,
+        1.4,
+        1.8
+      ],
+      "focal": 18,
+      "floor": "ground"
+    }
+  ],
+  "source": {
+    "engine": "Unreal Engine 5.8.3",
+    "actorCount": 942,
+    "nodes": 1002,
+    "meshInstances": 881,
+    "nativeUniqueMeshes": 514,
+    "trianglesInstanced": 1239405,
+    "playerChairs": [
+      "FURN_DnD_PlayerChair_01",
+      "FURN_DnD_PlayerChair_02",
+      "FURN_DnD_PlayerChair_03",
+      "FURN_DnD_PlayerChair_04",
+      "FURN_DnD_PlayerChair_05"
+    ],
+    "geometrySimplified": false,
+    "geometryPositions": "Original native glTF accessor bytes and original node matrices copied exactly",
+    "nativeSHA256": "729c1b3395d4d11658159fa34fed61f4e006bb894fc703ea4083fec781ff92a1",
+    "browserSHA256": "252fd2614190ffc523881f0c98e4fa77ac23a2530dd35ba4df3385f5faf01d33",
+    "geometryCompression": "Meshopt; original float32 positions retained, bit-identical vertex weld,16bit normals; no simplification"
+  },
+  "appearance": "Browser PBR adaptation using CC0 materials; native Lumen, Substrate and Epic source textures not included",
+  "kinds": [
+    "room",
+    "roof",
+    "furniture",
+    "decor"
+  ],
+  "floorLevels": [
+    {
+      "id": "ground",
+      "label": "Зал",
+      "height": 0
+    },
+    {
+      "id": "stage",
+      "label": "Сцена",
+      "height": 0.428
+    },
+    {
+      "id": "upper",
+      "label": "Верхняя комната",
+      "height": 2.45
+    }
+  ],
+  "modelSha256": "252fd2614190ffc523881f0c98e4fa77ac23a2530dd35ba4df3385f5faf01d33",
+  "up": "Y",
+  "modelFile": "venue.glb",
+  "modelBytes": 44046088
+}

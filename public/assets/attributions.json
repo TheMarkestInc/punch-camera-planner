@@ -1,0 +1,780 @@
+{
+  "materialLibraries": [
+    {
+      "name": "Poly Haven",
+      "license": "CC0",
+      "licenseUrl": "https://polyhaven.com/license"
+    },
+    {
+      "name": "ambientCG",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://docs.ambientcg.com/license/"
+    }
+  ],
+  "assets": [
+    {
+      "id": "red_brick",
+      "url": "https://polyhaven.com/a/red_brick",
+      "license": "CC0"
+    },
+    {
+      "id": "brick_wall_09",
+      "url": "https://polyhaven.com/a/brick_wall_09",
+      "license": "CC0"
+    },
+    {
+      "id": "wood_floor",
+      "url": "https://polyhaven.com/a/wood_floor",
+      "license": "CC0"
+    },
+    {
+      "id": "oak_veneer_01",
+      "url": "https://polyhaven.com/a/oak_veneer_01",
+      "license": "CC0"
+    },
+    {
+      "id": "black_oak_veneer",
+      "url": "https://polyhaven.com/a/black_oak_veneer",
+      "license": "CC0"
+    },
+    {
+      "id": "painted_plaster_wall",
+      "url": "https://polyhaven.com/a/painted_plaster_wall",
+      "license": "CC0"
+    },
+    {
+      "id": "Metal027",
+      "url": "https://ambientcg.com/a/Metal027",
+      "license": "CC0"
+    },
+    {
+      "id": "Metal009",
+      "url": "https://ambientcg.com/a/Metal009",
+      "license": "CC0"
+    },
+    {
+      "id": "metal_plate",
+      "url": "https://polyhaven.com/a/metal_plate",
+      "license": "CC0"
+    },
+    {
+      "id": "brown_leather",
+      "url": "https://polyhaven.com/a/brown_leather",
+      "license": "CC0"
+    },
+    {
+      "id": "Plastic010",
+      "url": "https://ambientcg.com/a/Plastic010",
+      "license": "CC0"
+    },
+    {
+      "id": "velour_velvet",
+      "url": "https://polyhaven.com/a/velour_velvet",
+      "license": "CC0"
+    },
+    {
+      "id": "Carpet012",
+      "url": "https://ambientcg.com/a/Carpet012",
+      "license": "CC0"
+    },
+    {
+      "id": "rough_linen",
+      "url": "https://polyhaven.com/a/rough_linen",
+      "license": "CC0"
+    }
+  ],
+  "geometrySources": [
+    {
+      "name": "PUNCH venue model",
+      "source": "Project photogrammetry, measured reconstruction and authored geometry"
+    },
+    {
+      "name": "Wine Bottles 01",
+      "author": "Rico Cilliers / Jurita Burger",
+      "source": "https://polyhaven.com/a/wine_bottles_01",
+      "license": "CC0"
+    },
+    {
+      "name": "Glasses/bottles/vases/cups",
+      "author": "DREAM_SEARCH_REPEAT",
+      "source": "https://dream-search-repeat.itch.io/pack-of-glasses-bottles-vases-and-cups",
+      "license": "CC0 recorded in project source notes"
+    },
+    {
+      "name": "Low Poly 3D Dice",
+      "author": "Facehunter2003",
+      "source": "https://opengameart.org/content/low-poly-3d-dice",
+      "license": "CC0"
+    }
+  ],
+  "projectReferenceArt": "Venue photos, poster/portrait/menu crops and club branding remain project reference artwork, not relicensed as CC0.",
+  "projectAuthored": "V9 engraving, custom table finish, club mats and procedural fixture details",
+  "excluded": "Epic Automotive/Substrate Materials source images and their exported bakes",
+  "materialProvenance": [
+    {
+      "material": "CC0_HallWood",
+      "source": "https://polyhaven.com/a/wood_floor",
+      "mode": "CC0"
+    },
+    {
+      "material": "CC0_UpperWood",
+      "source": "https://polyhaven.com/a/wood_floor",
+      "mode": "CC0"
+    },
+    {
+      "material": "CC0_CharcoalPaint",
+      "source": "https://polyhaven.com/a/painted_plaster_wall",
+      "mode": "CC0"
+    },
+    {
+      "material": "CC0_WhitePlaster",
+      "source": "https://polyhaven.com/a/painted_plaster_wall",
+      "mode": "CC0"
+    },
+    {
+      "material": "CC0_CurtainBlack",
+      "source": "https://polyhaven.com/a/velour_velvet",
+      "mode": "CC0"
+    },
+    {
+      "material": "CC0_PowderBlack",
+      "source": "https://ambientcg.com/a/Metal027",
+      "mode": "CC0"
+    },
+    {
+      "material": "Web_M_ClearGlass",
+      "source": "Project scalar glass",
+      "mode": "project-generated"
+    },
+    {
+      "material": "CC0_CarpetStage",
+      "source": "https://ambientcg.com/a/Carpet012",
+      "mode": "CC0"
+    },
+    {
+      "material": "CC0_Steel",
+      "source": "https://ambientcg.com/a/Metal009",
+      "mode": "CC0"
+    },
+    {
+      "material": "CC0_BrickRed",
+      "source": "https://polyhaven.com/a/red_brick",
+      "mode": "CC0"
+    },
+    {
+      "material": "M_Entry_ExpandedMetal",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "CC0_PlasticIvory",
+      "source": "https://ambientcg.com/a/Plastic010",
+      "mode": "CC0"
+    },
+    {
+      "material": "M_Entry_SpeakerGrille_Entry_ENTRY_Speaker_Wall_Grille",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "M_Entry_SpeakerLED",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "M_Entry_SpeakerGrille_Entry_ENTRY_Speaker_Stage_Grille",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "M_BarPhotoV2_Exit_EXIT_Sign",
+      "source": "Project reference photo Exit",
+      "mode": "project-reference"
+    },
+    {
+      "material": "CC0_Foil",
+      "source": "https://ambientcg.com/a/Metal009",
+      "mode": "CC0"
+    },
+    {
+      "material": "CC0_PlasticWhite",
+      "source": "https://ambientcg.com/a/Plastic010",
+      "mode": "CC0"
+    },
+    {
+      "material": "CC0_RubberRed",
+      "source": "https://ambientcg.com/a/Plastic010",
+      "mode": "CC0"
+    },
+    {
+      "material": "CC0_CheckerSteel",
+      "source": "https://polyhaven.com/a/metal_plate",
+      "mode": "CC0"
+    },
+    {
+      "material": "M_Detail_WarmBulb",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "CC0_GrayPlaster",
+      "source": "https://polyhaven.com/a/painted_plaster_wall",
+      "mode": "CC0"
+    },
+    {
+      "material": "M_BarPhotoV2_PosterBlue_ART_Poster_BlueTop",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BarPhotoV2_PosterGreen_ART_Poster_GreenTop",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BarPhotoV2_PosterOrange_ART_Poster_OrangeTop",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BarPhotoV2_PosterDark_ART_Poster_VitaliyDarkBottom",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BarPhotoV2_PosterRed_ART_Poster_TopStandupRedBottom",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BarPhotoV2_PosterLight_ART_Poster_VitaliyLightBottom",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BarPhotoV2_ClubRules_ART_A4_ClubRules",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BarPhotoV2_FireSafety_ART_A4_FireSafety",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BarPhotoV2_StairBlackJacket_ART_A4_StairPortraitBlackJacket",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BarPhotoV2_Logo_PUNCH_PaintedLogo",
+      "source": "Project reference photo Logo",
+      "mode": "project-reference"
+    },
+    {
+      "material": "M_BarPhotoV2_Portrait0_DETAIL_DETAIL_PortraitArt_0",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BarPhotoV2_Portrait1_DETAIL_DETAIL_PortraitArt_1",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BarPhotoV2_Portrait2_DETAIL_DETAIL_PortraitArt_2",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BarPhotoV2_Portrait3_DETAIL_DETAIL_PortraitArt_3",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BarPhotoV2_Portrait4_DETAIL_DETAIL_PortraitArt_4",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BarPhotoV2_Portrait5_DETAIL_DETAIL_PortraitArt_5",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "ClubMat_Orange",
+      "source": "Project club mat color",
+      "mode": "project-generated"
+    },
+    {
+      "material": "CC0_VinylBlack",
+      "source": "https://polyhaven.com/a/brown_leather",
+      "mode": "CC0"
+    },
+    {
+      "material": "CC0_SofaBlue",
+      "source": "https://polyhaven.com/a/velour_velvet",
+      "mode": "CC0"
+    },
+    {
+      "material": "CC0_OakDark",
+      "source": "https://polyhaven.com/a/oak_veneer_01",
+      "mode": "CC0"
+    },
+    {
+      "material": "CC0_BlackGloss",
+      "source": "https://ambientcg.com/a/Plastic010",
+      "mode": "CC0"
+    },
+    {
+      "material": "CC0_PaperWhite",
+      "source": "https://polyhaven.com/a/rough_linen",
+      "mode": "CC0"
+    },
+    {
+      "material": "CC0_PowderGray",
+      "source": "https://ambientcg.com/a/Metal027",
+      "mode": "CC0"
+    },
+    {
+      "material": "CC0_Brass",
+      "source": "https://ambientcg.com/a/Metal009",
+      "mode": "CC0"
+    },
+    {
+      "material": "CC0_PlasticBlack",
+      "source": "https://ambientcg.com/a/Plastic010",
+      "mode": "CC0"
+    },
+    {
+      "material": "M_Audit_Lighting_diffuser",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "CC0_BrickUpperCream",
+      "source": "https://polyhaven.com/a/brick_wall_09",
+      "mode": "CC0"
+    },
+    {
+      "material": "CC0_DuctWrap",
+      "source": "https://polyhaven.com/a/rough_linen",
+      "mode": "CC0"
+    },
+    {
+      "material": "CC0_OakCounter",
+      "source": "https://polyhaven.com/a/oak_veneer_01",
+      "mode": "CC0"
+    },
+    {
+      "material": "M_BarPhoto_FridgeFront",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BarPhoto_RedBullSignClean",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BarPhoto_ChargerSlots",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BarPhoto_ChargerInstructions",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "CC0_PlasticRed",
+      "source": "https://ambientcg.com/a/Plastic010",
+      "mode": "CC0"
+    },
+    {
+      "material": "CC0_ClothWhite",
+      "source": "https://polyhaven.com/a/rough_linen",
+      "mode": "CC0"
+    },
+    {
+      "material": "CC0_RubberBlack",
+      "source": "https://ambientcg.com/a/Plastic010",
+      "mode": "CC0"
+    },
+    {
+      "material": "M_BarAudit_lens",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "M_BarAudit_led",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "M_BarPhotoV2_PortraitWhiteShirt_ART_A4_NewWhiteShirt",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BarPhotoV2_PortraitYellow_ART_A4_NewYellow",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "CC0_BlackBoards",
+      "source": "https://polyhaven.com/a/black_oak_veneer",
+      "mode": "CC0"
+    },
+    {
+      "material": "M_MenuCorner_RedLED",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "M_MenuCorner_PrintFinal",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_MenuCorner_CoolLED_Final",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "Tabletop_V9_Gold",
+      "source": "Project authored approved V9 SVG",
+      "mode": "project-generated"
+    },
+    {
+      "material": "Web_MI_AmberBottle",
+      "source": "Scalar-only material; no Epic files or bakes",
+      "mode": "project-generated"
+    },
+    {
+      "material": "M_CorkAndFoil_BARPROP_SideBottle_1",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "Web_MI_DarkRedWine",
+      "source": "Scalar-only material; no Epic files or bakes",
+      "mode": "project-generated"
+    },
+    {
+      "material": "M_Label_ftero_vinea_02_BARPROP_SideBottle_1",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BeerLabel_BARPROP_SideBottle_2",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BottleCap_BARPROP_SideBottle_2",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "Web_MI_GreenBottle",
+      "source": "Scalar-only material; no Epic files or bakes",
+      "mode": "project-generated"
+    },
+    {
+      "material": "M_CorkAndFoil_BARPROP_SideBottle_3",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_Label_ftero_vinea_01_BARPROP_SideBottle_3",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "Web_MI_OliveBottle",
+      "source": "Scalar-only material; no Epic files or bakes",
+      "mode": "project-generated"
+    },
+    {
+      "material": "M_CorkAndFoil_BARPROP_SideBottle_4",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "Web_MI_PaleWine",
+      "source": "Scalar-only material; no Epic files or bakes",
+      "mode": "project-generated"
+    },
+    {
+      "material": "M_Label_clearwater_crystals_01_BARPROP_SideBottle_4",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BeerLabel_BARPROP_SideBottle_5",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BottleCap_BARPROP_SideBottle_5",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "Web_MI_ClearBottle",
+      "source": "Scalar-only material; no Epic files or bakes",
+      "mode": "project-generated"
+    },
+    {
+      "material": "M_CorkAndFoil_BARPROP_SideBottle_6",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "Web_MI_RoseWine",
+      "source": "Scalar-only material; no Epic files or bakes",
+      "mode": "project-generated"
+    },
+    {
+      "material": "M_Label_intertwine_01_BARPROP_SideBottle_6",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BeerLabel_BARPROP_SideBottle_7",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BottleCap_BARPROP_SideBottle_7",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BeerLabel_BARPROP_SideBackBottle_1",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BottleCap_BARPROP_SideBackBottle_1",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_CorkAndFoil_BARPROP_SideBackBottle_2",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_Label_intertwine_01_BARPROP_SideBackBottle_2",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_CorkAndFoil_BARPROP_SideBackBottle_3",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_Label_clearwater_crystals_01_BARPROP_SideBackBottle_3",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_CorkAndFoil_BARPROP_SideBackBottle_4",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_Label_ftero_vinea_01_BARPROP_SideBackBottle_4",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BeerLabel_BARPROP_RearBottle_1",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BottleCap_BARPROP_RearBottle_1",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_CorkAndFoil_BARPROP_RearBottle_2",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_Label_ftero_vinea_02_BARPROP_RearBottle_2",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_CorkAndFoil_BARPROP_RearBottle_3",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_Label_clearwater_crystals_01_BARPROP_RearBottle_3",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BeerLabel_BARPROP_RearBottle_4",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BottleCap_BARPROP_RearBottle_4",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BeerLabel_BARPROP_CounterBottle_1",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_BottleCap_BARPROP_CounterBottle_1",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_CorkAndFoil_BARPROP_CounterBottle_2",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_Label_clearwater_crystals_01_BARPROP_CounterBottle_2",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_CorkAndFoil_BARPROP_CounterBottle_3",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "M_Label_ftero_vinea_02_BARPROP_CounterBottle_3",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "Web_MI_ClearCrystal",
+      "source": "Scalar-only material; no Epic files or bakes",
+      "mode": "project-generated"
+    },
+    {
+      "material": "M_SB_Diffuser",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "M_SB_Display",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "M_SB_Logo",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "MI_D20_Jade_D20_Jade",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "MI_D20_Ruby_D20_Ruby",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "MI_D20_Sapphire_D20_Sapphire",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "MI_D20_Obsidian_D20_Obsidian",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "MI_D20_Pearl_D20_Pearl",
+      "source": "Native bake of project reference crop / authored material / CC0 bottle label",
+      "mode": "project-safe"
+    },
+    {
+      "material": "MI_PAR_0_Lens",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "MI_PAR_1_Lens",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "MI_PAR_2_Lens",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "MI_PAR_3_Lens",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "MI_PAR_Extra_MidLeft_Lens",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "MI_PAR_4_Lens",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "MI_PAR_5_Lens",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "MI_PAR_6_Lens",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "MI_PAR_7_Lens",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "MI_PAR_8_Lens",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "MI_PAR_Extra_FrontLeft_Lens",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "MI_PAR_StageCurtainLeft_Lens",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "MI_PAR_StageCurtainRight_Lens",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    },
+    {
+      "material": "MI_PAR_CentralDownCan_Lens",
+      "source": "Project scalar/procedural material rebuilt without baked images",
+      "mode": "project-generated"
+    }
+  ]
+}
